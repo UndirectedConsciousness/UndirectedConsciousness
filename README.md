@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UndirectedConsciousness
-- 🌱 I’m currently learning Python
-- Want to learn C, C++, Java, JS
+- 🌱 I’m currently learning Python and C++
+- Want to learn Rust, Java, JS
 - 📫 How to reach me: Discord 90inaschoolzone
 
 
